@@ -1,5 +1,6 @@
 # Codigo-de-Visualizaciones Table with Embedded Chart
 
+https://observablehq.com/@d3/box-plot Link de la fuente. 
 
 La visualización es cualquier tipo de representación gráfica que nos permita:
 
@@ -127,6 +128,7 @@ bins = d3.histogram()
     
 
 # Codigo-de-Visualizaciones Components of Components
+https://unipython.com/multiclass-and-multilabel-algorithms-algoritmos-multiclase-multietiqueta/ Link de la fuente 
 
 Esta visualización de componentes , es para determinar una visualización en la cual nos permite hacer una comparacion de datos 
 enre tablas, de como va creciendo los porcentajes o de como va aumentando las posibles causas  de alguna información. 
